@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "YourNamespace\\": "includes/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "YourNamespace\\Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
