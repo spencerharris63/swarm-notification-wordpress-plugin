@@ -17,7 +17,7 @@ A plugin to send swarm reports to a WhatsApp group.
 3. Use the [swarm_form] shortcode to display the form on any page or post.
 
 == Installation from GitHub ==
-1. Download the latest release from the [GitHub repository](https://github.com/yourusername/swarm-notification-plugin).
+1. Download the latest release from the [GitHub repository](https://github.com/spencerharris63/swarm-notification-wordpress-plugin).
     - Click on the "Code" button and select "Download ZIP".
 2. Log in to your WordPress admin dashboard (`https://yourwebsite.com/wp-admin`).
 3. Navigate to Plugins > Add New.
